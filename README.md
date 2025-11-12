@@ -1,6 +1,6 @@
-# WhaleSpotting
+# Whale Watching
 
-WhaleSpotting is a full-stack application for recording and viewing whale sightings. It provides an ASP.NET API backend and a modern front-end UI, allowing users to submit reports, search sightings, and manage users via authentication and roles.
+Whale Watching is a full-stack application for recording and viewing whale sightings. It provides an ASP.NET API backend and a modern front-end UI, allowing users to submit reports, search sightings, and manage users via authentication and roles.
 
 ---
 
